@@ -1,0 +1,29 @@
+h2 {
+    font-size: 2rem;
+ color: blueviolet;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+ margin-bottom: 25px;
+margin-top: 25;
+}
+li{
+    color: aqua;
+    font-variant-caps: petite-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    a {
+        color: blueviolet;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    img {
+        width: 100%;
+        max-width: 500px;
+    }
+    label {
+        background-color: yellow;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    input {
+color:brown;
+background-color: rgb(55, 255, 55);
+border: 0px;
+    }
